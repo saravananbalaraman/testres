@@ -6,8 +6,6 @@ pasta
 
 sweets 
 snacks
-
 non veg
-----------------
 chicken 
 mutton
